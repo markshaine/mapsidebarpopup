@@ -1,0 +1,471 @@
+[
+  {
+    "id": 1,
+    "description": "pharmacy",
+    "small": "Kaunda Street",
+    "title": "Malibu Pharmacy Ltd",
+    "coords": [-1.285136738, 36.82315419]
+  },
+  {
+    "id": 2,
+    "description": "pharmacy",
+    "small": "Mombasa Road",
+    "title": "Inkamed Pharmeceuticals",
+    "coords": [-1.316821337, 36.83504777]
+  },
+  {
+    "id": 3,
+    "description": "hospital",
+    "small": "Kangaru Road",
+    "title": "Aga Khan Hospital",
+    "coords": [-1.267551672, 36.90561988]
+  },
+  {
+    "id": 4,
+    "description": "pharmacy",
+    "small": "Ngong Road",
+    "title": "Harmony Court, Jamhuri",
+    "coords": [-1.303296215, 36.77177924]
+  },
+  {
+    "id": 5,
+    "description": "pharmacy",
+    "small": "Ring Road Westlands",
+    "title": "Flametree Pharmacy Ltd",
+    "coords": [-1.264439137, 36.80268952]
+  },
+  {
+    "id": 6,
+    "description": "pharmacy",
+    "small": "Ngong Road",
+    "title": "Goodlife Pharmacy, Total Ngong Road",
+    "coords": [-1.300152833, 36.78855663]
+  },
+  {
+    "id": 7,
+    "description": "clinic",
+    "small": "Pate Bay Road",
+    "title": "Ngaira Health Center",
+    "coords": [-1.292476938, 36.82388853]
+  },
+  {
+    "id": 8,
+    "description": "clinic",
+    "small": "Ralph Bunche Road",
+    "title": "Prof Josephat A O Mulimba",
+    "coords": [-1.294688252, 36.80650128]
+  },
+  {
+    "id": 9,
+    "description": "pharmacy",
+    "small": "Kenyatta Avenue",
+    "title": "Haltons Pharmacy",
+    "coords": [-1.289783832, 36.81151139]
+  },
+  {
+    "id": 10,
+    "description": "pharmacy",
+    "small": "Cathedral Road",
+    "title": "Lords Healthcare Ltd",
+    "coords": [-1.292896704, 36.81607165]
+  },
+  {
+    "id": 11,
+    "description": "clinic",
+    "small": "Muindi Mbingu Street",
+    "title": "Nairobi Outpatient Centre Ltd",
+    "coords": [-1.280436753, 36.81873315]
+  },
+  {
+    "id": 12,
+    "description": "hospital",
+    "small": "Manyanja Road",
+    "title": "Getrudes Children's Hospital Donholm",
+    "coords": [-1.295370119, 36.88737306]
+  },
+  {
+    "id": 13,
+    "description": "hospital",
+    "small": "Thika Road",
+    "title": "Neema Hospital",
+    "coords": [-1.227210327, 36.88510836]
+  },
+  {
+    "id": 14,
+    "description": "pharmacy",
+    "small": "Argwings Kodhek Road",
+    "title": "Malibu Pharmacy Ltd",
+    "coords": [-1.294706859, 36.7971086]
+  },
+  {
+    "id": 15,
+    "description": "pharmacy",
+    "small": "Argwings Kodhek Road",
+    "title": "Yaya Chemists Limited",
+    "coords": [-1.29289025, 36.78798138]
+  },
+  {
+    "id": 16,
+    "description": "clinic",
+    "small": "5th Avenue Ngong",
+    "title": "IncusEar Hearing and E.N.T Centre",
+    "coords": [-1.295929611, 36.80826667]
+  },
+  {
+    "id": 17,
+    "description": "hospital",
+    "small": "Kasarani Mwiki Road",
+    "title": "Kasarani Maternity",
+    "coords": [-1.221634936, 36.91343424]
+  },
+  {
+    "id": 18,
+    "description": "dentist",
+    "small": "Park Road",
+    "title": "Park Road Dental Clinic",
+    "coords": [-1.27526931, 36.83151028]
+  },
+  {
+    "id": 19,
+    "description": "clinic",
+    "small": "Ngong Road",
+    "title": "Careville Wellness Centre",
+    "coords": [-1.298961849, 36.799752]
+  },
+  {
+    "id": 20,
+    "description": "pharmacy",
+    "small": "Argwings Kodhek Road",
+    "title": "Rosegate Pharmacy",
+    "coords": [-1.295219245, 36.79797445]
+  },
+  {
+    "id": 21,
+    "description": "clinic",
+    "small": "Lower Kabete Road",
+    "title": "Chinese Clinic",
+    "coords": [-1.25967042, 36.80239532]
+  },
+  {
+    "id": 22,
+    "description": "clinic",
+    "small": "Kasarani Mwiki Road",
+    "title": "Kasarani Health Centre",
+    "coords": [-1.221229923, 36.90224549]
+  },
+  {
+    "id": 23,
+    "description": "clinic",
+    "small": "Airport North Road",
+    "title": "Gertrude's Children's Hospital",
+    "coords": [-1.330110929, 36.88929344]
+  },
+  {
+    "id": 24,
+    "description": "dentist",
+    "small": "Bishop Road",
+    "title": "Kanyongo Rufus",
+    "coords": [-1.292870971, 36.80631327]
+  },
+  {
+    "id": 25,
+    "description": "pharmacy",
+    "small": "Mpaka Road",
+    "title": "Kam Pharmacy Ltd",
+    "coords": [-1.265064007, 36.80425786]
+  },
+  {
+    "id": 26,
+    "description": "clinic",
+    "small": "Gitanga Road",
+    "title": "Aga Khan University Hospital Medical Centre",
+    "coords": [-1.290824781, 36.77029087]
+  },
+  {
+    "id": 27,
+    "description": "clinic",
+    "small": "Kiambu Road",
+    "title": "Aga Khan Ridgeways Medical Centre",
+    "coords": [-1.229991023, 36.84160745]
+  },
+  {
+    "id": 28,
+    "description": "clinic",
+    "small": "4th Avenue Ngong",
+    "title": "AAR Healthcare Williamson Outpatient Centre",
+    "coords": [-1.294457246, 36.80911702]
+  },
+  {
+    "id": 29,
+    "description": "clinic",
+    "small": "Hamza Road",
+    "title": "Makadara Health Centre",
+    "coords": [-1.296724132, 36.87337134]
+  },
+  {
+    "id": 30,
+    "description": "pharmacy",
+    "small": "Muthithi Road",
+    "title": "Ram Pharmaceuticals Ltd",
+    "coords": [-1.265313872, 36.8063753]
+  },
+  {
+    "id": 31,
+    "description": "clinic",
+    "small": "Moi Avenue",
+    "title": "Mater Hospital",
+    "coords": [-1.287973928, 36.82729544]
+  },
+  {
+    "id": 32,
+    "description": "clinic",
+    "small": "Karbarnet Road",
+    "title": "Vips Health Services",
+    "coords": [-1.302205813, 36.78909424]
+  },
+  {
+    "id": 33,
+    "description": "clinic",
+    "small": "Ralph Bunche Road",
+    "title": "Laser Stone & Endoscopy Centre",
+    "coords": [-1.29457124, 36.80665223]
+  },
+  {
+    "id": 34,
+    "description": "pharmacy",
+    "small": "5th Avenue Ngong",
+    "title": "5th Avenue Ngong Pharmacy",
+    "coords": [-1.296073948, 36.80822677]
+  },
+  {
+    "id": 35,
+    "description": "pharmacy",
+    "small": "Woodlands Lane",
+    "title": "Linkemmed Pharmacy",
+    "coords": [-1.294373511, 36.79864735]
+  },
+  {
+    "id": 36,
+    "description": "clinic",
+    "small": "Mugo Kibiru Road",
+    "title": "Aga Khan University Hospital Medical Centre",
+    "coords": [-1.300900583, 36.78770603]
+  },
+  {
+    "id": 37,
+    "description": "clinic",
+    "small": "Mara Road",
+    "title": "Pathway International",
+    "coords": [-1.298441249, 36.81134434]
+  },
+  {
+    "id": 38,
+    "description": "clinic",
+    "small": "Ngong Road",
+    "title": "Gilead Medical Centre",
+    "coords": [-1.289913836, 36.81159429]
+  },
+  {
+    "id": 39,
+    "description": "hospital",
+    "small": "Shivachi Road",
+    "title": "Dinesh Chandaria Medical Center",
+    "coords": [-1.264523458, 36.81149714]
+  },
+  {
+    "id": 40,
+    "description": "hospital",
+    "small": "3rd Parklands Avenue",
+    "title": "Mediheal Group of Hospitals - Parklands",
+    "coords": [-1.262162863, 36.82257844]
+  },
+  {
+    "id": 41,
+    "description": "clinic",
+    "small": "2nd Parklands Avenue",
+    "title": "Mathura",
+    "coords": [-1.260888814, 36.81691244]
+  },
+  {
+    "id": 42,
+    "description": "hospital",
+    "small": "1st Parklands Avenue",
+    "title": "Mediheal Group of Hospitals - Parklands",
+    "coords": [-1.275289511, 36.81605215]
+  },
+  {
+    "id": 43,
+    "description": "clinic",
+    "small": "0th Parklands Avenue",
+    "title": "Mathura",
+    "coords": [-1.274015462, 36.81038615]
+  },
+  {
+    "id": 44,
+    "description": "hospital",
+    "small": "1st Parklands Avenue",
+    "title": "Mediheal Group of Hospitals - Parklands",
+    "coords": [-1.273378437, 36.80755315]
+  },
+  {
+    "id": 45,
+    "description": "clinic",
+    "small": "Syokimau Airport Road",
+    "title": "Maayan Medical Centre - Gateway Mall",
+    "coords": [-1.363496301, 36.91246328]
+  },
+  {
+    "id": 46,
+    "description": "pharmacy",
+    "small": "Mwanzi Road",
+    "title": "Goodlife Westgate",
+    "coords": [-1.257190802, 36.80349326]
+  },
+  {
+    "id": 47,
+    "description": "hospital",
+    "small": "Kasarani Mwiki Road",
+    "title": "Shekinah Medical Centre",
+    "coords": [-1.218513851, 36.9006039]
+  },
+  {
+    "id": 48,
+    "description": "pharmacy",
+    "small": "Thika Road",
+    "title": "Nima Chemist",
+    "coords": [-1.19659618, 36.92456985]
+  },
+  {
+    "id": 49,
+    "description": "pharmacy",
+    "small": "Ring Road Parklands",
+    "title": "Goodlife Pharmcy",
+    "coords": [-1.263905964, 36.80222877]
+  },
+  {
+    "id": 50,
+    "description": "hospital",
+    "small": "Argwings Kodhek Road",
+    "title": "Nairobi Hospital",
+    "coords": [-1.296094903, 36.80508507]
+  },
+  {
+    "id": 51,
+    "description": "clinic",
+    "small": "Kaunda Street",
+    "title": "The Aga Khan University Hospital",
+    "coords": [-1.285773008, 36.82201308]
+  },
+  {
+    "id": 52,
+    "description": "clinic",
+    "small": "Mombasa Road",
+    "title": "Clinix Healthcare MFI",
+    "coords": [-1.331886384, 36.85702177]
+  },
+  {
+    "id": 53,
+    "description": "hospital",
+    "small": "Oluvimu Rd",
+    "title": "Nairobi South Hospital",
+    "coords": [-1.31365742, 36.82838408]
+  },
+  {
+    "id": 54,
+    "description": "pharmacy",
+    "small": "Kiambu Road",
+    "title": "Goodlife Chemist Kiambu Road",
+    "coords": [-1.229409906, 36.84029979]
+  },
+  {
+    "id": 55,
+    "description": "clinic",
+    "small": "Suna Road",
+    "title": "Iran Medical Clinic",
+    "coords": [-1.300863954, 36.77935045]
+  },
+  {
+    "id": 56,
+    "description": "pharmacy",
+    "small": "Argwings Kodhek Road",
+    "title": "Neem Pharmacy",
+    "coords": [-1.292647677, 36.78687958]
+  },
+  {
+    "id": 57,
+    "description": "clinic",
+    "small": "Suna Road",
+    "title": "Iran Medical Clinic",
+    "coords": [-1.2844314, 36.79440871]
+  },
+  {
+    "id": 58,
+    "description": "pharmacy",
+    "small": "Argwings Kodhek Road",
+    "title": "Neem Pharmacy",
+    "coords": [-1.276215123, 36.80193784]
+  },
+  {
+    "id": 59,
+    "description": "pharmacy",
+    "small": "Thika Road",
+    "title": "Goodlife Pharmacy Shell Thome",
+    "coords": [-1.232461841, 36.87524302]
+  },
+  {
+    "id": 60,
+    "description": "dentist",
+    "small": "James Gichuru Road",
+    "title": "Family Dentistry Nairobi",
+    "coords": [-1.286761653, 36.76193252]
+  },
+  {
+    "id": 61,
+    "description": "",
+    "small": "Mombasa Road",
+    "title": "Kobian Kenya Ltd",
+    "coords": [-1.331131425, 36.85689219]
+  },
+  {
+    "id": 62,
+    "description": "hospital",
+    "small": "Mombasa Road",
+    "title": "The AgaKhan University",
+    "coords": [-1.316488157, 36.83502204]
+  },
+  {
+    "id": 63,
+    "description": "clinic",
+    "small": "5th Avenue Ngong",
+    "title": "Precise Diagnostic Imaging",
+    "coords": [-1.29572635, 36.80790927]
+  },
+  {
+    "id": 64,
+    "description": "clinic",
+    "small": "Koinage Street",
+    "title": "Karen Hospital Clinic",
+    "coords": [-1.284568948, 36.81879283]
+  },
+  {
+    "id": 65,
+    "description": "clinic",
+    "small": "Pipeline",
+    "title": "Aga Khan Clinic Embakasi",
+    "coords": [-1.318924273, 36.89738986]
+  },
+  {
+    "id": 66,
+    "description": "clinic",
+    "small": "Mombasa Road",
+    "title": "Medicross Clinic",
+    "coords": [-1.363962083, 36.91190329]
+  },
+  {
+    "id": 67,
+    "description": "clinic",
+    "small": "4th Avenue Ngong",
+    "title": "AAR Williamsom Health Centre",
+    "coords": [-1.294654305, 36.809344]
+  }
+ ]

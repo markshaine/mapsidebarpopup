@@ -41,7 +41,7 @@ let groupBounds;
 let latlngs = [];
 
 // function to add markers to map
-fetchData("./places.json")
+fetchData("./export.json")
   .then((data) => {
     // create markers width "marker-options-id"
     data.map((marker) => {
@@ -137,8 +137,7 @@ function closeSidebar() {
 // add content to sidebar
 
 function addContentToSidebar(marker) {
-  const { id, title, small, description, img, coords } = marker;
-  const smallInfo = small !== undefined ? `<small>${small}</small>` : "";
+  const { id, title, small, description, coords } = marker;
 
   // create sidebar content
   const sidebarTemplate = `
@@ -146,8 +145,6 @@ function addContentToSidebar(marker) {
       <h1>${title}</h1>
       <div class="marker-id">${id}</div>
       <div class="info-content">
-        <img class="img-zoom" src="${img.src}" alt="${img.alt}">
-        ${smallInfo}
         <div class="info-description">${description}</div>
       </div>
     </article>

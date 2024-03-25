@@ -105,7 +105,7 @@ svg:not(:root) {
   display: block;
   width: 20px;
   height: 20px;
-  fill: #3f3f3f;
+  fill: #353434;
   pointer-events: none;
 }
 
